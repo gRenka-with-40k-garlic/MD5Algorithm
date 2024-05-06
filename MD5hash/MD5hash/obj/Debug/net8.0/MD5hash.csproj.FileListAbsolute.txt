@@ -1,0 +1,14 @@
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\MD5hash\MD5hash\bin\Debug\net8.0\MD5hash.exe
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\MD5hash\MD5hash\bin\Debug\net8.0\MD5hash.deps.json
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\MD5hash\MD5hash\bin\Debug\net8.0\MD5hash.runtimeconfig.json
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\MD5hash\MD5hash\bin\Debug\net8.0\MD5hash.dll
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\MD5hash\MD5hash\bin\Debug\net8.0\MD5hash.pdb
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\MD5hash\MD5hash\obj\Debug\net8.0\MD5hash.GeneratedMSBuildEditorConfig.editorconfig
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\MD5hash\MD5hash\obj\Debug\net8.0\MD5hash.AssemblyInfoInputs.cache
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\MD5hash\MD5hash\obj\Debug\net8.0\MD5hash.AssemblyInfo.cs
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\MD5hash\MD5hash\obj\Debug\net8.0\MD5hash.csproj.CoreCompileInputs.cache
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\MD5hash\MD5hash\obj\Debug\net8.0\MD5hash.dll
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\MD5hash\MD5hash\obj\Debug\net8.0\refint\MD5hash.dll
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\MD5hash\MD5hash\obj\Debug\net8.0\MD5hash.pdb
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\MD5hash\MD5hash\obj\Debug\net8.0\MD5hash.genruntimeconfig.cache
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\MD5hash\MD5hash\obj\Debug\net8.0\ref\MD5hash.dll

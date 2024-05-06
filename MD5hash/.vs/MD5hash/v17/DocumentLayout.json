@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\gennady_documents\\Coding tools\\Coding projects\\VSProjects\\MD5hash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8972795A-7923-4423-B9DE-4A70F49813D6}|MD5hash\\MD5hash.csproj|p:\\gennady_documents\\coding tools\\coding projects\\vsprojects\\md5hash\\md5hash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8972795A-7923-4423-B9DE-4A70F49813D6}|MD5hash\\MD5hash.csproj|solutionrelative:md5hash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\gennady_documents\\Coding tools\\Coding projects\\VSProjects\\MD5hash\\MD5hash\\Program.cs",
+              "RelativeDocumentMoniker": "MD5hash\\Program.cs",
+              "ToolTip": "P:\\gennady_documents\\Coding tools\\Coding projects\\VSProjects\\MD5hash\\MD5hash\\Program.cs",
+              "RelativeToolTip": "MD5hash\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:21:48.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
